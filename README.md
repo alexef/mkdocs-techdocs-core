@@ -1,4 +1,4 @@
-# mkdocs-techdocs-core
+# mkdocs-techdocs-core-alexef
 
 This is the base [Mkdocs](https://mkdocs.org) plugin used when using Mkdocs with Spotify's [TechDocs](https://backstage.io/docs/features/techdocs/techdocs-overview). It is written in Python and packages all of our Mkdocs defaults, such as theming, plugins, etc in a single plugin.
 
@@ -9,10 +9,10 @@ This is the base [Mkdocs](https://mkdocs.org) plugin used when using Mkdocs with
 > Requires Python version >= 3.8
 
 ```bash
-$ pip install mkdocs-techdocs-core
+$ pip install mkdocs-techdocs-core-alexef
 ```
 
-Once you have installed the `mkdocs-techdocs-core` plugin, you'll need to add it to your `mkdocs.yml`.
+Once you have installed the `mkdocs-techdocs-core-alexef` plugin, you'll need to add it to your `mkdocs.yml`.
 
 ```yaml
 site_name: Backstage Docs
