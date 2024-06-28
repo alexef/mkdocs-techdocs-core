@@ -27,7 +27,7 @@ with open("requirements.txt") as f:
     required = f.read().splitlines()
 
 setup(
-    name="mkdocs-techdocs-core",
+    name="mkdocs-techdocs-core-alexef",
     version="1.4.0",
     description="The core MkDocs plugin used by Backstage's TechDocs as a wrapper around "
     "multiple MkDocs plugins and Python Markdown extensions",

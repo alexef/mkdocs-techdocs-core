@@ -19,7 +19,7 @@ import logging
 import os
 from mkdocs.plugins import BasePlugin
 from mkdocs.theme import Theme
-from mkdocs.contrib.search import SearchPlugin
+from material.plugins.search.plugin import SearchPlugin
 from mkdocs_monorepo_plugin.plugin import MonorepoPlugin
 from pymdownx.emoji import to_svg
 
